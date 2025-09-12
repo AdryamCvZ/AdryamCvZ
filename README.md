@@ -2,7 +2,7 @@
 
 <img width="100%" height="130px" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:4B0082&height=130&section=header&text=Adryam&fontSize=52&fontAlign=center&fontColor=fff" />
 
-<img width="100%" height="160px" src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
+<img width="100%" height="180px" src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
 
 <h1>👋 Olá, eu sou Adryam!</h1>
 <p>Desenvolvedor apaixonado por tecnologia, inovação e desafios.<br>
@@ -19,7 +19,7 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.</p>
   <img src="https://img.shields.io/badge/API-RESTful-0052CC?logo=api&logoColor=white" />
 </p>
 
-<img width="100%" height="160px" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
+<img width="100%" height="180px" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
 
 <h2>💭 Frases motivacionais</h2>
 <p>
@@ -29,7 +29,7 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.</p>
   <b>“A única forma de fazer um ótimo trabalho é amar o que você faz.”</b>
 </p>
 
-<img width="100%" height="160px" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
+<img width="100%" height="180px" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
 
 <h2>📊 Estatísticas & Atividades</h2>
 <table align="center" width="100%">
@@ -66,11 +66,11 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake.svg" />
-    <img width="600px" alt="github-snake" src="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake.svg" />
+    <img width="610px" alt="github-snake" src="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-<img width="100%" height="160px" src="https://images.unsplash.com/photo-1465101178521-c1a2b7c0e1b2?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
+<img width="100%" height="180px" src="https://images.unsplash.com/photo-1465101178521-c1a2b7c0e1b2?auto=format&fit=crop&w=1400&q=80" style="object-fit:cover; border-radius: 18px;" />
 
 <h2>💼 Minhas Competências</h2>
 <p align="center">
