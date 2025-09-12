@@ -51,7 +51,7 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.
       <img src="https://github-profile-trophy.vercel.app/?username=AdryamCvZ&theme=onedark&row=1&column=2&margin-w=10&margin-h=10&title=Issue,PullRequest&no-frame=true&no-bg=true" width="100%" height="240px"/>
     </td>
     <td width="50%" style="padding:12px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryamCvZ&layout=compact&theme=dark&bg_color=87CEEB,4B0082&title_color=fff&text_color=fff&hide_border=true" width="100%" height="240px"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdryamCvZ&theme=vue" height="240px" width="100%" alt="Linguagem com mais commits"/>
     </td>
   </tr>
 </table>
