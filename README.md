@@ -86,15 +86,6 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.
   </a>
 </div>
 
-<h2>🐍 Contribuições - Snake Game</h2>
-<div align="center" style="width:100%; background:rgba(135,206,235,0.1); padding:16px; border-radius:12px; margin:20px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <h2>💼 Minhas Competências</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Arquitetura%20de%20Sistemas-Planejamento%20e%20Design-4B0082?logo=azuredevops&logoColor=white" />
