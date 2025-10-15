@@ -8,7 +8,7 @@ Olá! Meu nome é Adryam, sou apaixonado por tecnologia, jogos e tudo que envolv
 
 <p align="left">
     <!-- LinkedIn (adicione seu link depois) -->
-    <a href="https://www.linkedin.com/in/adryamcvz" target="_blank">
+    <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
