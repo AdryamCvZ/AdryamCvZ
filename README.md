@@ -65,7 +65,7 @@ Estudante de Desenvolvimento de Software na <b>ETEC Dep. Salim Sedeh</b>.
   <a href="https://github.com/LuanGomes99/maonaroda" style="text-decoration:none;">
     <div style="background:linear-gradient(120deg,#87CEEB 0%,#4B0082 100%); padding:20px; border-radius:16px; height:100%;">
       <div style="background:rgba(255,255,255,0.1); border-radius:12px; padding:16px; margin-bottom:16px;">
-        <img src="https://raw.githubusercontent.com/LuanGomes99/maonaroda/main/assets/preview.png" style="width:100%; border-radius:8px; object-fit:cover;" onerror="this.src='https://via.placeholder.com/400x200?text=Mão+na+Roda'" />
+        <img src="https://raw.githubusercontent.com/LuanGomes99/maonaroda/main/assets/banner.png" style="width:100%; border-radius:8px; object-fit:cover;" onerror="this.src='https://via.placeholder.com/400x200?text=Mão+na+Roda'" />
       </div>
       <h3 style="color:#fff; margin:0 0 8px 0;">Mão na Roda</h3>
       <span style="display:inline-block; background:rgba(255,255,255,0.2); border-radius:8px; padding:4px 12px; color:#fff; font-size:14px; margin-bottom:8px;">Plataforma de Serviços</span>
