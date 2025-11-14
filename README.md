@@ -7,14 +7,6 @@ Olá! Meu nome é Adryam, sou apaixonado por tecnologia, jogos e tudo que envolv
 ---
 
 <p align="left">
-    <!-- LinkedIn (adicione seu link depois) -->
-    <a href="https://br.linkedin.com/in/adryam-freitas" target="_blank">
-    <img 
-        alt="LinkedIn"
-        title="Siga no LinkedIn"
-        src="https://img.shields.io/badge/-LinkedIn-303060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7D2AE8"
-    />
-    </a>
     <!-- Instagram -->
     <a href="https://www.instagram.com/minino_adriano" target="_blank">
         <img 
@@ -22,6 +14,14 @@ Olá! Meu nome é Adryam, sou apaixonado por tecnologia, jogos e tudo que envolv
             title="Siga no Instagram"
             src="https://img.shields.io/badge/Instagram-303060?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7D2AE8"
         />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://br.linkedin.com/in/adryam-freitas" target="_blank">
+    <img 
+        alt="LinkedIn"
+        title="Siga no LinkedIn"
+        src="https://img.shields.io/badge/-LinkedIn-303060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7D2AE8"
+    />
     </a>
     <!-- GitHub Stars -->
     <a href="https://github.com/AdryamCvZ?tab=repositories&sort=stargazers">
