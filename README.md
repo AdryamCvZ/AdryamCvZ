@@ -8,15 +8,15 @@ Olá! Meu nome é Adryam, sou apaixonado por tecnologia, jogos e tudo que envolv
 
 <p align="left">
     <!-- LinkedIn (adicione seu link depois) -->
-    <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank">
-        <img 
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-303060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7D2AE8"
-        />
+    <a href="https://br.linkedin.com/in/adryam-freitas" target="_blank">
+    <img 
+        alt="LinkedIn"
+        title="Siga no LinkedIn"
+        src="https://img.shields.io/badge/-LinkedIn-303060?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7D2AE8"
+    />
     </a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/seu_instagram_aqui" target="_blank">
+    <a href="https://www.instagram.com/minino_adriano" target="_blank">
         <img 
             alt="Instagram"
             title="Siga no Instagram"
