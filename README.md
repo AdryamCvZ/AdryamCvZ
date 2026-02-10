@@ -7,7 +7,7 @@ Emerald Green Theme • HTML Safe Version (PT-BR)
 
 <p align="center">
 <img
-src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D230%26text%3DAdryam%2520Freitas%26fontColor%3DFFFFFF%26fontAlign%3D50%26fontAlignY%3D35%26fontSize%3D56%26desc%3DFull%2520Stack%2520Developer%2520%257C%2520C%2523%2520%2526%2520JavaScript%26descAlign%3D50%26descAlignY%3D62%26animation%3Dtwinkling%26color%3D0:091E14,50:1B5E20,100:00E676"
+src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Adryam%20Freitas&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:091E14,50:1B5E20,100:00E676"
 />
 </p>
 
@@ -15,7 +15,7 @@ src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftyp
 
 <p align="center">
 <img
-src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26weight%3D700%26size%3D18%26duration%3D2600%26pause%3D800%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D900%26lines%3DA%2Bcriatividade%2B%25C3%25A9%2Ba%2Bintelig%25C3%25AAncia%2Bse%2Bdivertindo%3BTransformando%2Bideias%2Bem%2Bsolu%25C3%25A7%25C3%25B5es%2Breais%3BDe%2Bjogos%2Bno%2BRPG%2BMaker%2Ba%2Bsistemas%2Bcomplexos."
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=A+criatividade+%C3%A9+a+intelig%C3%AAncia+se+divertindo+%E2%80%94+Albert+Einstein."
 alt="Texto animado"
 />
 </p>
@@ -24,26 +24,25 @@ alt="Texto animado"
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-1B5E20%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/minino_adriano" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-2E7D32%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<!-- Substitua pelo seu email real abaixo -->
-<a href="mailto:seu.email@exemplo.com" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-00C853%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+<a href="mailto:adryammagri@gmail.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/AdryamCvZ" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-0D1117%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 <!-- CONTADORES -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAdryamCvZ%26label%3DProfile%2520Views%26color%3D00E676" />
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/AdryamCvZ%3Flabel%3DFollowers%26color%3D1B5E20" />
-<img src="https://www.google.com/search?q=https://img.shields.io/github/stars/AdryamCvZ%3Flabel%3DStars%26color%3D1B5E20" />
+<img src="https://komarev.com/ghpvc/?username=AdryamCvZ&label=Profile%20Views&color=00E676" />
+<img src="https://img.shields.io/github/followers/AdryamCvZ?label=Followers&color=1B5E20" />
+<img src="https://img.shields.io/github/stars/AdryamCvZ?label=Stars&color=1B5E20" />
 </p>
 
 <hr/>
@@ -51,27 +50,27 @@ alt="Texto animado"
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-<li><b>Atuação:</b> Desenvolvedor Full Stack com paixão por unir criatividade e lógica.</li>
-<li><b>Origem:</b> Comecei criando jogos no <b>RPG Maker MV</b>, o que me deu base lógica e criativa.</li>
-<li><b>Stack Principal:</b> Foco em <b>C#</b>, <b>JavaScript</b> e desenvolvimento mobile com <b>Expo</b>.</li>
-<li><b>Projetos de Impacto:</b> Desenvolvimento de soluções como IA para detecção de câncer de pele e plataformas de mobilidade.</li>
-<li><b>Comunidade:</b> Acredito no poder de compartilhar conhecimento e código open-source.</li>
-<li><b>Hobbies:</b> Games, explorar universos digitais e aprender novas tecnologias.</li>
-<li><b>Local:</b> Brasil — Disponível para projetos remotos.</li>
+<li><b>Atuação:</b> Desenvolvedor Full Stack apaixonado por lógica e criatividade.</li>
+<li><b>Origem:</b> Iniciei minha jornada criando jogos no <b>RPG Maker MV</b>, desenvolvendo forte lógica de programação.</li>
+<li><b>Especialidades:</b> Desenvolvimento robusto com <b>C# (.NET)</b> e interfaces modernas com <b>JavaScript/React</b>.</li>
+<li><b>Mobile:</b> Criação de aplicativos multiplataforma utilizando <b>Expo</b>.</li>
+<li><b>Projetos de Impacto:</b> Desenvolvimento de IA para detecção de câncer de pele e soluções de mobilidade urbana.</li>
+<li><b>Comunidade:</b> Entusiasta do código aberto e compartilhamento de conhecimento.</li>
+<li><b>Local:</b> Leme, São Paulo — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
 
 <pre>
 const adryam_freitas = {
-cargo: "Desenvolvedor FullStack",
-paixao: "Games & Tecnologia",
-stack: [
-"C# & .NET",
-"JavaScript & Expo (Mobile)",
-"HTML5, CSS3 & Tailwind",
-"Git & Versionamento"
+cargo: "Desenvolvedor FullStack | Mobile Enthusiast",
+local: "Leme, São Paulo, Brasil",
+foco: [
+"C#, .NET e Node.js (Backend robusto e aplicações desktop)",
+"Noções de mySql (Criação de Banco de Dados completos)",
+"JavaScript e React (Web e Mobile com Expo)",
+"IA aplicada à saúde (Detecção de Câncer)",
+"Game Dev Logic aplicada a Software",
+"Versionamento Git & Github"
 ],
-filosofia:
-"A criatividade é a inteligência se divertindo. — Albert Einstein"
 };
 </pre>
 
@@ -82,12 +81,12 @@ filosofia:
 <p align="center">
 <img
 height="165"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAdryamCvZ%26show_icons%3Dtrue%26hide_border%3Dtrue%26title_color%3D00E676%26icon_color%3D00E676%26text_color%3D9f9f9f%26bg_color%3D0D1117"
+src="https://github-readme-stats.vercel.app/api?username=AdryamCvZ&show_icons=true&hide_border=true&title_color=00E676&icon_color=00E676&text_color=9f9f9f&bg_color=0D1117"
 alt="GitHub Stats"
 />
 <img
 height="165"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAdryamCvZ%26layout%3Dcompact%26hide_border%3Dtrue%26title_color%3D00E676%26text_color%3D9f9f9f%26bg_color%3D0D1117"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryamCvZ&layout=compact&hide_border=true&title_color=00E676&text_color=9f9f9f&bg_color=0D1117"
 alt="Linguagens mais usadas"
 />
 </p>
@@ -95,7 +94,7 @@ alt="Linguagens mais usadas"
 <p align="center">
 <img
 height="170"
-src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DAdryamCvZ%26theme%3Ddark%26hide_border%3Dtrue%26ring%3D00E676%26fire%3D00E676%26currStreakLabel%3D00E676"
+src="https://streak-stats.demolab.com?user=AdryamCvZ&theme=dark&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676&background=0D1117"
 alt="GitHub Streak"
 />
 </p>
@@ -105,35 +104,48 @@ alt="GitHub Streak"
 <h2>🧩 Stack tecnológica</h2>
 
 <div align="center">
-<h4>💻 Linguagens & Core</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,js,html,css" />
+<h4>👨‍💻 Linguagens & Core</h4>
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css" />
 
-<h4>📱 Mobile & Frontend</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,tailwind,bootstrap" />
+<h4>🎨 Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-<h4>🛠️ Ferramentas & DevOps</h4>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,visualstudio" />
+<h4>☕ Interesses de Aprendizado</h4>
+<img src="https://skillicons.dev/icons?i=aws,unity,unreal,java,php,docker,lua,linux" />
+
+<h4>🛠️ Ferramentas e IDEs</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,dotnet,nodejs,figma,mysql" />
 </div>
 
 <hr/>
 
-<h2>🚀 Projetos em Destaque</h2>
+<h2>📊 Distribuição de Expertise</h2>
 
 <table>
 <tr>
-<th align="left">Projeto</th>
-<th align="left">Descrição</th>
-<th align="left">Tech</th>
+<th align="left">Área de Atuação</th>
+<th align="center">Proficiência</th>
+<th align="left">Destaque Principal</th>
 </tr>
 <tr>
-<td><a href="https://github.com/AdryamCvZ/cancer-pele"><b>🔬 Câncer de Pele (IA)</b></a></td>
-<td>Projeto focado em conscientização e uso de IA para apoio no diagnóstico.</td>
-<td><code>Python/IA</code></td>
+<td><b>Desenvolvimento Backend (C#/.NET)</b></td>
+<td align="center"><b>90%</b></td>
+<td>Arquitetura robusta, lógica complexa, APIs</td>
 </tr>
 <tr>
-<td><a href="https://github.com/LuanGomes99/maonaroda"><b>🛞 Mão na Roda</b></a></td>
-<td>Plataforma inovadora para conectar pessoas e promover mobilidade urbana.</td>
-<td><code>FullStack</code></td>
+<td><b>Frontend & Mobile (JS/Expo)</b></td>
+<td align="center"><b>85%</b></td>
+<td>Interfaces responsivas, apps multiplataforma</td>
+</tr>
+<tr>
+<td><b>Lógica & Algoritmos</b></td>
+<td align="center"><b>95%</b></td>
+<td>Resolução de problemas (Herança do Game Dev)</td>
+</tr>
+<tr>
+<td><b>Inovação & IA</b></td>
+<td align="center"><b>80%</b></td>
+<td>Aplicações práticas (Saúde/Visão Computacional)</td>
 </tr>
 </table>
 
@@ -147,16 +159,20 @@ alt="GitHub Streak"
 <th align="left">Aplicação Prática</th>
 </tr>
 <tr>
-<td><b>Criatividade Lúdica</b></td>
-<td>Minha base em Game Dev traz soluções fora da caixa para problemas web/mobile.</td>
+<td><b>Background em Jogos</b></td>
+<td>Trago a lógica complexa de eventos do RPG Maker para resolver problemas de fluxo em apps reais.</td>
 </tr>
 <tr>
-<td><b>Foco em Impacto</b></td>
-<td>Projetos voltados para saúde (IA Câncer) e sociedade (Mobilidade).</td>
+<td><b>Foco em Impacto Social</b></td>
+<td>Não apenas código, mas soluções como a IA para detecção de câncer de pele.</td>
 </tr>
 <tr>
-<td><b>Aprendizado Contínuo</b></td>
-<td>Evolução constante: de RPG Maker para Engenharia de Software robusta.</td>
+<td><b>Versatilidade</b></td>
+<td>Transito bem entre o rigor do C# e a flexibilidade do JavaScript moderno.</td>
+</tr>
+<tr>
+<td><b>Aprendizado Autônomo</b></td>
+<td>Evolução constante impulsionada pela curiosidade de "como as coisas funcionam".</td>
 </tr>
 </table>
 
@@ -166,7 +182,7 @@ alt="GitHub Streak"
 
 <p align="center">
 <img
-src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAdryamCvZ%26bg_color%3D0D1117%26color%3D9f9f9f%26line%3D00E676%26point%3D00E676%26area%3Dtrue%26hide_border%3Dtrue"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AdryamCvZ&bg_color=0D1117&color=9f9f9f&line=00E676&point=00E676&area=true&hide_border=true"
 alt="Gráfico de atividade"
 />
 </p>
@@ -176,23 +192,19 @@ alt="Gráfico de atividade"
 <h2>🌍 Aberto a oportunidades</h2>
 
 <pre>
-Focos:
-
-Desenvolvimento Full Stack
-
-Desenvolvimento Mobile (Expo/React Native)
-
-C# / .NET Ecosystem
-
-Projetos com impacto social ou inovação
+Habilidades:
+- Desenvolvedor Full Stack
+- Desenvolvedor .NET / C#
+- Desenvolvedor Mobile (React Native / Expo)
+- Desenvolvedor Frontend
 
 Modelo:
+- Remoto
+- Híbrido
+- Presencial
 
-Remoto
-
-Híbrido
-
-Presencial
+Local:
+Leme, SP — Brasil
 </pre>
 
 <hr/>
@@ -205,20 +217,29 @@ Vamos transformar ideias em realidade:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-1B5E20%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Conecte--se-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AdryamCvZ" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-0D1117%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/minino_adriano" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
+📧 <b>Email:</b> <a href="mailto:adryammagri@gmail.com">adryammagri@gmail.com</a>
+
+
+
+
+🌍 <b>Disponível para novos desafios</b>
 </p>
 
 <!-- BANNER RODAPÉ (VERDE DEGRADÊ) -->
 
 <p align="center">
 <img
-src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26height%3D120%26text%3DCode%2520Like%2520a%2520Pro%26fontColor%3DFFFFFF%26fontSize%3D34%26color%3D0:091E14,50:1B5E20,100:00E676"
+src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Transforme%20ideias%20em%20c%C3%B3digo&fontColor=FFFFFF&fontSize=34&color=0:091E14,50:1B5E20,100:00E676"
 />
 </p>
