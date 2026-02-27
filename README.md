@@ -37,6 +37,9 @@ alt="Texto animado"
 <a href="mailto:adryammagri@gmail.com" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://adryamfreitasportfolio.vercel.app" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Site-0277BD?style=for-the-badge&logo=site&logoColor=white" />
+</a>
 <a href="https://github.com/AdryamCvZ" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
