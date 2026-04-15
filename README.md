@@ -1,14 +1,14 @@
 <!-- =========================================================
 
-ADRYAM CVZ • README DO PERFIL GITHUB
+ADRYAM CVZ • GITHUB PROFILE README
 
-Tema Azul • Versão HTML (PT-BR)
+Blue Theme • HTML Version (EN-US)
 
 ========================================================= -->
 
 
 
-<!-- BANNER TOPO (AZUL DEGRADÊ) -->
+<!-- TOP BANNER (BLUE GRADIENT) -->
 
 <p align="center">
 <img
@@ -16,16 +16,16 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Adryam%20
 />
 </p>
 
-<!-- FRASE “ANDANDO” (SVG ANIMADO) -->
+<!-- “MOVING” QUOTE (ANIMATED SVG) -->
 
 <p align="center">
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=A+criatividade+%C3%A9+a+intelig%C3%AAncia+se+divertindo+%E2%80%94+Albert+Einstein."
-alt="Texto animado"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Creativity+is+intelligence+having+fun+%E2%80%94+Albert+Einstein."
+alt="Animated text"
 />
 </p>
 
-<!-- BOTÕES TOPO -->
+<!-- TOP BUTTONS -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank" rel="noreferrer">
@@ -37,15 +37,12 @@ alt="Texto animado"
 <a href="mailto:adryammagri@gmail.com" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://adryamfreitasportfolio.vercel.app" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Site-0277BD?style=for-the-badge&logo=site&logoColor=white" />
-</a>
 <a href="https://github.com/AdryamCvZ" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
-<!-- CONTADORES -->
+<!-- COUNTERS -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AdryamCvZ&label=Profile%20Views&color=00E5FF" />
@@ -55,50 +52,50 @@ alt="Texto animado"
 
 <hr/>
 
-<!-- IDIOMAS (LINKS) -->
+<!-- LANGUAGES (LINKS) -->
 
-<h2 align="center">💬 Idioma</h2>
+<h2 align="center">💬 Language</h2>
 
 <p align="center">
-  <b>PT-BR</b> | <a href="README.en.md">EN-US</a>
+  <a href="README.br.md">PT-BR</a> | <b>EN-US</b>
 </p>
 
 <hr/>
 
-<!-- SEÇÃO (SOBRE) -->
+<!-- SECTION (ABOUT) -->
 
-<h2>🧠 Sobre mim</h2>
+<h2>🧠 About Me</h2>
 
 <ul>
-<li><b>Atuação:</b> Desenvolvedor Full Stack apaixonado por lógica e criatividade.</li>
-<li><b>Origem:</b> Iniciei minha jornada criando jogos no <b>RPG Maker MV</b>, desenvolvendo forte lógica de programação.</li>
-<li><b>Especialidades:</b> Desenvolvimento robusto com <b>C# (.NET)</b> e interfaces modernas com <b>JavaScript/React</b>.</li>
-<li><b>Mobile:</b> Criação de aplicativos multiplataforma utilizando <b>Expo</b>.</li>
-<li><b>Projetos de Impacto:</b> Desenvolvimento de IA para detecção de câncer de pele e soluções de mobilidade urbana.</li>
-<li><b>Comunidade:</b> Entusiasta do código aberto e compartilhamento de conhecimento.</li>
-<li><b>Local:</b> Leme, São Paulo — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+<li><b>Role:</b> Full Stack Developer passionate about logic and creativity.</li>
+<li><b>Background:</b> I started my journey creating games in <b>RPG Maker MV</b>, developing strong programming logic.</li>
+<li><b>Specialties:</b> Robust development with <b>C# (.NET)</b> and modern interfaces with <b>JavaScript/React</b>.</li>
+<li><b>Mobile:</b> Cross-platform application development using <b>Expo</b>.</li>
+<li><b>Impact Projects:</b> AI development for skin cancer detection and urban mobility solutions.</li>
+<li><b>Community:</b> Open-source enthusiast and knowledge-sharing advocate.</li>
+<li><b>Location:</b> Leme, São Paulo — <b>remote</b>, <b>hybrid</b>, or <b>on-site</b>.</li>
 </ul>
 
 <pre>
 const adryam_freitas = {
-cargo: "Desenvolvedor FullStack | Mobile Enthusiast",
-local: "Leme, São Paulo, Brasil",
-foco: [
-"C#, .NET e Node.js (Backend robusto e aplicações desktop)",
-"Noções de mySql (Criação de Banco de Dados completos)",
-"JavaScript e React (Web e Mobile com Expo)",
-"IA aplicada à saúde (Detecção de Câncer)",
-"Game Dev Logic aplicada a Software",
-"Versionamento Git & Github"
+role: "Full Stack Developer | Mobile Enthusiast",
+location: "Leme, São Paulo, Brazil",
+focus: [
+"C#, .NET and Node.js (Robust backend and desktop applications)",
+"MySQL fundamentals (Complete database creation)",
+"JavaScript and React (Web and Mobile with Expo)",
+"AI applied to healthcare (Cancer Detection)",
+"Game Dev Logic applied to Software",
+"Git & GitHub Version Control"
 ],
 };
 </pre>
 
 <hr/>
 
-<!-- SEÇÃO (GRÁFICOS) -->
+<!-- SECTION (STATS) -->
 
-<h2>📊 Visão geral do GitHub</h2>
+<h2>📊 GitHub Overview</h2>
 
 <p align="center">
 <img
@@ -109,7 +106,7 @@ alt="GitHub Stats"
 <img
 height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryamCvZ&layout=compact&hide_border=true&title_color=00E5FF&text_color=9f9f9f&bg_color=0D1117"
-alt="Linguagens mais usadas"
+alt="Most Used Languages"
 />
 </p>
 
@@ -123,138 +120,138 @@ alt="GitHub Streak"
 
 <hr/>
 
-<!-- SEÇÃO (APTIDÕES E INTERESSES) -->
+<!-- SECTION (SKILLS & INTERESTS) -->
 
-<h2>🧩 Stack tecnológica</h2>
+<h2>🧩 Tech Stack</h2>
 
 <div align="center">
-<h4>👨‍💻 Linguagens & Core</h4>
+<h4>👨‍💻 Languages & Core</h4>
 <img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css" />
 
 <h4>🎨 Frontend</h4>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-<h4>☕ Interesses de Aprendizado</h4>
+<h4>☕ Learning Interests</h4>
 <img src="https://skillicons.dev/icons?i=aws,unity,unreal,java,php,docker,lua,linux" />
 
-<h4>🛠️ Ferramentas e IDEs</h4>
+<h4>🛠️ Tools & IDEs</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,dotnet,nodejs,figma,mysql" />
 </div>
 
 <hr/>
 
-<!-- SEÇÃO (COMPETÊNCIAS) -->
+<!-- SECTION (COMPETENCIES) -->
 
-<h2>📊 Distribuição de Expertise</h2>
+<h2>📊 Expertise Distribution</h2>
 
 <table>
 <tr>
-<th align="left">Área de Atuação</th>
-<th align="center">Proficiência</th>
-<th align="left">Destaque Principal</th>
+<th align="left">Area of Expertise</th>
+<th align="center">Proficiency</th>
+<th align="left">Main Strength</th>
 </tr>
 <tr>
-<td><b>Desenvolvimento Backend (C#/.NET)</b></td>
+<td><b>Backend Development (C#/.NET)</b></td>
 <td align="center"><b>90%</b></td>
-<td>Arquitetura robusta, lógica complexa, APIs</td>
+<td>Robust architecture, complex logic, APIs</td>
 </tr>
 <tr>
 <td><b>Frontend & Mobile (JS/Expo)</b></td>
 <td align="center"><b>85%</b></td>
-<td>Interfaces responsivas, apps multiplataforma</td>
+<td>Responsive interfaces, cross-platform apps</td>
 </tr>
 <tr>
-<td><b>Lógica & Algoritmos</b></td>
+<td><b>Logic & Algorithms</b></td>
 <td align="center"><b>95%</b></td>
-<td>Resolução de problemas (Herança do Game Dev)</td>
+<td>Problem-solving (Game Dev background)</td>
 </tr>
 <tr>
-<td><b>Inovação & IA</b></td>
+<td><b>Innovation & AI</b></td>
 <td align="center"><b>80%</b></td>
-<td>Aplicações práticas (Saúde/Visão Computacional)</td>
+<td>Practical applications (Healthcare/Computer Vision)</td>
 </tr>
 </table>
 
 <hr/>
 
-<!-- SEÇÃO (DIFERÊNCIAIS) -->
+<!-- SECTION (DIFFERENTIALS) -->
 
-<h2>✨ Meus Diferenciais</h2>
+<h2>✨ What Sets Me Apart</h2>
 
 <table>
 <tr>
-<th align="left">Característica</th>
-<th align="left">Aplicação Prática</th>
+<th align="left">Characteristic</th>
+<th align="left">Practical Application</th>
 </tr>
 <tr>
-<td><b>Background em Jogos</b></td>
-<td>Trago a lógica complexa de eventos do RPG Maker para resolver problemas de fluxo em apps reais.</td>
+<td><b>Game Development Background</b></td>
+<td>I bring complex RPG Maker event logic to solve workflow problems in real-world applications.</td>
 </tr>
 <tr>
-<td><b>Foco em Impacto Social</b></td>
-<td>Não apenas código, mas soluções como a IA para detecção de câncer de pele.</td>
+<td><b>Focus on Social Impact</b></td>
+<td>Not just code, but meaningful solutions like AI for skin cancer detection.</td>
 </tr>
 <tr>
-<td><b>Versatilidade</b></td>
-<td>Transito bem entre o rigor do C# e a flexibilidade do JavaScript moderno.</td>
+<td><b>Versatility</b></td>
+<td>I move comfortably between the rigor of C# and the flexibility of modern JavaScript.</td>
 </tr>
 <tr>
-<td><b>Aprendizado Autônomo</b></td>
-<td>Evolução constante impulsionada pela curiosidade de "como as coisas funcionam".</td>
+<td><b>Self-Learner</b></td>
+<td>Continuous growth driven by curiosity about "how things work".</td>
 </tr>
 </table>
 
 <hr/>
 
-<!-- SEÇÃO (GRÁFICO DE ATIVIDADE) -->
+<!-- SECTION (ACTIVITY GRAPH) -->
 
-<h2>📈 Atividade & gráficos</h2>
+<h2>📈 Activity & Graphs</h2>
 
 <p align="center">
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=AdryamCvZ&bg_color=0D1117&color=9f9f9f&line=00E5FF&point=00E5FF&area=true&hide_border=true"
-alt="Gráfico de atividade"
+alt="Activity Graph"
 />
 </p>
 
 <hr/>
 
-<!-- SEÇÃO (GERAL) -->
+<!-- SECTION (GENERAL) -->
 
-<h2>🌍 Aberto a oportunidades</h2>
+<h2>🌍 Open to Opportunities</h2>
 
 <pre>
-Habilidades:
-- Desenvolvedor Full Stack
-- Desenvolvedor .NET / C#
-- Desenvolvedor Mobile (React Native / Expo)
-- Desenvolvedor Frontend
+Skills:
+- Full Stack Developer
+- .NET / C# Developer
+- Mobile Developer (React Native / Expo)
+- Frontend Developer
 
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
+Work Model:
+- Remote
+- Hybrid
+- On-site
 
-Local:
-Leme, SP — Brasil
+Location:
+Leme, SP — Brazil
 </pre>
 
 <hr/>
 
-<!-- SEÇÃO (CONTATOS) -->
+<!-- SECTION (CONTACTS) -->
 
-<h2>💬✨ Vamos nos conectar</h2>
+<h2>💬✨ Let's Connect</h2>
 
 <p align="center">
-Vamos transformar ideias em realidade:
+Let’s turn ideas into reality:
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adryam-freitas/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Conecte--se-0277BD?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Connect-0277BD?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AdryamCvZ" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/minino_adriano" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Instagram-0277BD?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -264,14 +261,11 @@ Vamos transformar ideias em realidade:
 <p align="center">
 📧 <b>Email:</b> <a href="mailto:adryammagri@gmail.com">adryammagri@gmail.com</a>
 
-
-
-
-🌍 <b>Disponível para novos desafios</b>
+🌍 <b>Available for new challenges</b>
 </p>
 
 <p align="center">
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Transforme%20ideias%20em%20c%C3%B3digo&fontColor=FFFFFF&fontSize=34&color=0:0A192F,50:0277BD,100:00E5FF"
+src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Turn%20ideas%20into%20code&fontColor=FFFFFF&fontSize=34&color=0:0A192F,50:0277BD,100:00E5FF"
 />
 </p>
