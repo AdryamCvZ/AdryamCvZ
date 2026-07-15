@@ -119,8 +119,8 @@ alt="GitHub Streak"
 </p>
 
 <p align = "center">
-    <br clear="both">
-    <img data-importer="snake" src="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/snake-output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<img data-importer="snake" src="https://raw.githubusercontent.com/AdryamCvZ/AdryamCvZ/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
 <hr/>
